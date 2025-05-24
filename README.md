@@ -401,7 +401,8 @@ form {
 ```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/b1ade733-b85c-4802-b01b-f1a7cd01797b)
+![image](https://github.com/user-attachments/assets/a29cc2c8-9b44-4060-905f-5b0f9e019c8e)
+
 
 
 ## RESULT
